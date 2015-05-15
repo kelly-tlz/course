@@ -1,0 +1,54 @@
+<TextAnalysis>
+	
+	<dics>
+		<dic>
+			<path>dic/badFeeling.txt</path>
+			<weight>-1</weight>
+		</dic>	
+		<dic>
+			<path>dic/badComment.txt</path>
+			<weight>-1</weight>
+		</dic>
+		<dic>
+			<path>dic/goodFeeling.txt</path>
+			<weight>1</weight>
+		</dic>	
+		<dic>
+			<path>dic/goodComment.txt</path>
+			<weight>1</weight>
+		</dic>		
+		<dic>
+			<path>dic/trend1.txt</path>
+			<weight>2</weight>
+		</dic>
+		<dic>
+			<path>dic/trend2.txt</path>
+			<weight>1</weight>
+		</dic>
+		<dic>
+			<path>dic/level1.txt</path>
+			<weight>2</weight>
+		</dic>
+		<dic>
+			<path>dic/level2.txt</path>
+			<weight>1.5</weight>
+		</dic>
+		<dic>
+			<path>dic/level3.txt</path>
+			<weight>1.2</weight>
+		</dic>
+		<dic>
+			<path>dic/level4.txt</path>
+			<weight>1</weight>
+		</dic>
+		<dic>
+			<path>dic/level5.txt</path>
+			<weight>0.75</weight>
+		</dic>
+		<dic>
+			<path>dic/level6.txt</path>
+			<weight>0.5</weight>
+		</dic>
+	</dics>
+	
+</TextAnalysis>
